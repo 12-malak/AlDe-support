@@ -1,6 +1,6 @@
 import cv2
 import winsound
-cam = cv2.VideoCapture(0)
+cam = cv2.VideoCapture(0) #Video return webcam
 while True:
     ret, frame1 = cam.read()
     ret, frame2 = cam.read()
@@ -19,9 +19,9 @@ while True:
         winsound.PlaySound('alert.wav', winsound.SND_ASYNC)
     if cv2.waitKey(10) == ord('q'):
         break
-    cv2.imshow('Video Cam', frame1)
+    cv2.imshow('Video Cam', frame1) #Display image in a window
     k = cv2.waitKey(5)
-    if k == 27:
+    if k == 27: #27 is ASCII code for Esc
         break
 cap.release()
 cv2.destroyAllWindows()
