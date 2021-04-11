@@ -1,0 +1,130 @@
+{
+  "appInfo" : {
+    "build" : "211.6693.115",
+    "buildDate" : "2021-04-06T12:57:52.497Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2021-04-11T15:00:23.6620026Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+9-b1341.35"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 786432000,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "motiondetector",
+    "times" : {
+      "totalUpdatingTime" : 1548622400,
+      "indexingTime" : 1548622400,
+      "scanFilesTime" : 0,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-04-11T15:00:22.1133802Z",
+      "updatingEnd" : "2021-04-11T15:00:23.6620026Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : {
+        "part" : 2763063300,
+        "total" : 2763063300
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 257362800,
+        "total" : 257362800
+      },
+      "totalNumberOfFiles" : 219,
+      "totalFilesSize" : 2701313,
+      "indexingSpeed" : {
+        "totalBytes" : 2701313,
+        "totalTime" : 2763063300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 219,
+        "totalFilesSize" : 2701313,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 2763063300,
+          "total" : 2763063300
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 2315323700,
+        "total" : 2763063300
+      },
+      "totalNumberOfFiles" : 219,
+      "totalNumberOfFilesIndexedByExtensions" : 6,
+      "totalFilesSize" : 2701313,
+      "indexingSpeed" : {
+        "totalBytes" : 2701313,
+        "totalTime" : 2315323700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 298858500,
+        "total" : 2763063300
+      },
+      "totalNumberOfFiles" : 214,
+      "totalNumberOfFilesIndexedByExtensions" : 6,
+      "totalFilesSize" : 2357964,
+      "indexingSpeed" : {
+        "totalBytes" : 2357964,
+        "totalTime" : 298858500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 148881100,
+        "total" : 2763063300
+      },
+      "totalNumberOfFiles" : 215,
+      "totalNumberOfFilesIndexedByExtensions" : 6,
+      "totalFilesSize" : 2648323,
+      "indexingSpeed" : {
+        "totalBytes" : 2648323,
+        "totalTime" : 148881100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "numberOfScannedFiles" : 219,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 219,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 219,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 6,
+      "totalIndexingTime" : 1555772200,
+      "numberOfTooLargeForIndexingFiles" : 0
+    } ]
+  }
+}

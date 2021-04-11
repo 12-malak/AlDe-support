@@ -1,0 +1,626 @@
+{
+  "appInfo" : {
+    "build" : "211.6693.115",
+    "buildDate" : "2021-04-06T12:57:52.497Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2021-04-11T14:50:26.6087729Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+9-b1341.35"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 786432000,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "motiondetector",
+    "times" : {
+      "totalUpdatingTime" : 21249616600,
+      "indexingTime" : 18968428300,
+      "scanFilesTime" : 2171819400,
+      "pushPropertiesTime" : 62494700,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-04-11T14:50:05.3591563Z",
+      "updatingEnd" : "2021-04-11T14:50:26.6087729Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : {
+        "part" : 11223892400,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 11978920600,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 1314,
+      "totalFilesSize" : 19485030,
+      "indexingSpeed" : {
+        "totalBytes" : 19485030,
+        "totalTime" : 11223892400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 1313,
+        "totalFilesSize" : 19485030,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 11221188400,
+          "total" : 11223892400
+        }
+      }, {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 0,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 2704000,
+          "total" : 11223892400
+        }
+      } ]
+    }, {
+      "fileType" : "PythonStub",
+      "partOfTotalIndexingTime" : {
+        "part" : 3776793300,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 11787069700,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 886,
+      "totalFilesSize" : 1990131,
+      "indexingSpeed" : {
+        "totalBytes" : 1990131,
+        "totalTime" : 3776793300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 886,
+        "totalFilesSize" : 1990131,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 3776793300,
+          "total" : 3776793300
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : {
+        "part" : 1908159300,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 218292000,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 15,
+      "totalFilesSize" : 705986,
+      "indexingSpeed" : {
+        "totalBytes" : 705986,
+        "totalTime" : 1908159300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 705986,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 1908159300,
+          "total" : 1908159300
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalIndexingTime" : {
+        "part" : 1001848600,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4827200,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 69338,
+      "indexingSpeed" : {
+        "totalBytes" : 69338,
+        "totalTime" : 1001848600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 69338,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 1001848600,
+          "total" : 1001848600
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalIndexingTime" : {
+        "part" : 321063100,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 561633200,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 61,
+      "totalFilesSize" : 593925,
+      "indexingSpeed" : {
+        "totalBytes" : 593925,
+        "totalTime" : 321063100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 61,
+        "totalFilesSize" : 593925,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 321063100,
+          "total" : 321063100
+        }
+      } ]
+    }, {
+      "fileType" : "RNG Compact",
+      "partOfTotalIndexingTime" : {
+        "part" : 296185400,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 632003100,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 124,
+      "totalFilesSize" : 468783,
+      "indexingSpeed" : {
+        "totalBytes" : 468783,
+        "totalTime" : 296185400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 124,
+        "totalFilesSize" : 468783,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 296185400,
+          "total" : 296185400
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : {
+        "part" : 62349900,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 77068700,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 26,
+      "totalFilesSize" : 230185,
+      "indexingSpeed" : {
+        "totalBytes" : 230185,
+        "totalTime" : 62349900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 24,
+        "totalFilesSize" : 220197,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 47619000,
+          "total" : 62349900
+        }
+      }, {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 9988,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 14730900,
+          "total" : 62349900
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : {
+        "part" : 60617700,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 851200,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 1273,
+      "indexingSpeed" : {
+        "totalBytes" : 1273,
+        "totalTime" : 60617700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1187,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 60085400,
+          "total" : 60617700
+        }
+      }, {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 86,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 532300,
+          "total" : 60617700
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : {
+        "part" : 29935300,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 51323100,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 48,
+      "totalFilesSize" : 25203,
+      "indexingSpeed" : {
+        "totalBytes" : 25203,
+        "totalTime" : 29935300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 46,
+        "totalFilesSize" : 23633,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 28137900,
+          "total" : 29935300
+        }
+      }, {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 1570,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 1797400,
+          "total" : 29935300
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalIndexingTime" : {
+        "part" : 23895600,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 47239300,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 102,
+      "indexingSpeed" : {
+        "totalBytes" : 102,
+        "totalTime" : 23895600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 102,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 23895600,
+          "total" : 23895600
+        }
+      } ]
+    }, {
+      "fileType" : "ReST",
+      "partOfTotalIndexingTime" : {
+        "part" : 2054300,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7079900,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 9777,
+      "indexingSpeed" : {
+        "totalBytes" : 9777,
+        "totalTime" : 2054300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 9777,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 2054300,
+          "total" : 2054300
+        }
+      } ]
+    }, {
+      "fileType" : "PATCH",
+      "partOfTotalIndexingTime" : {
+        "part" : 2010300,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3219400,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 4449,
+      "indexingSpeed" : {
+        "totalBytes" : 4449,
+        "totalTime" : 2010300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 4449,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 2010300,
+          "total" : 2010300
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalIndexingTime" : {
+        "part" : 159400,
+        "total" : 18708964600
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 31281400,
+        "total" : 25400808800
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 9132,
+      "indexingSpeed" : {
+        "totalBytes" : 9132,
+        "totalTime" : 159400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (motiondetector)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 9132,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 159400,
+          "total" : 159400
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 14222438000,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 2206,
+      "totalNumberOfFilesIndexedByExtensions" : 1701,
+      "totalFilesSize" : 22094882,
+      "indexingSpeed" : {
+        "totalBytes" : 22094882,
+        "totalTime" : 14222438000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2496431500,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 2468,
+      "totalNumberOfFilesIndexedByExtensions" : 1704,
+      "totalFilesSize" : 23391654,
+      "indexingSpeed" : {
+        "totalBytes" : 23391654,
+        "totalTime" : 2496431500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 749948100,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 2476,
+      "totalNumberOfFilesIndexedByExtensions" : 1704,
+      "totalFilesSize" : 23396103,
+      "indexingSpeed" : {
+        "totalBytes" : 23396103,
+        "totalTime" : 749948100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "SchemaTypeInheritance",
+      "partOfTotalIndexingTime" : {
+        "part" : 411210000,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 415206,
+      "indexingSpeed" : {
+        "totalBytes" : 415206,
+        "totalTime" : 411210000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : {
+        "part" : 330937300,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 13,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 596344,
+      "indexingSpeed" : {
+        "totalBytes" : 596344,
+        "totalTime" : 330937300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 326934600,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 69338,
+      "indexingSpeed" : {
+        "totalBytes" : 69338,
+        "totalTime" : 326934600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlTagNames",
+      "partOfTotalIndexingTime" : {
+        "part" : 157471700,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 10,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 329565,
+      "indexingSpeed" : {
+        "totalBytes" : 329565,
+        "totalTime" : 157471700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 9163000,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 620345,
+      "indexingSpeed" : {
+        "totalBytes" : 620345,
+        "totalTime" : 9163000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 4430400,
+        "total" : 18708964600
+      },
+      "totalNumberOfFiles" : 495,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6557592,
+      "indexingSpeed" : {
+        "totalBytes" : 6557592,
+        "totalTime" : 4430400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (motiondetector)",
+      "numberOfScannedFiles" : 2378,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 2274,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1786428300,
+      "timeProcessingUpToDateFiles" : 20416200,
+      "timeUpdatingContentLessIndexes" : 324903700,
+      "timeIndexingWithoutContent" : 11670200
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+      "numberOfScannedFiles" : 213,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 213,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 261241900,
+      "timeProcessingUpToDateFiles" : 5126200,
+      "timeUpdatingContentLessIndexes" : 81219700,
+      "timeIndexingWithoutContent" : 5854600
+    }, {
+      "providerName" : "Module 'motiondetector'",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1059400,
+      "timeProcessingUpToDateFiles" : 143900,
+      "timeUpdatingContentLessIndexes" : 58300,
+      "timeIndexingWithoutContent" : 269800
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (motiondetector)",
+      "totalNumberOfIndexedFiles" : 2274,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1704,
+      "totalIndexingTime" : 16456070000,
+      "numberOfTooLargeForIndexingFiles" : 0
+    }, {
+      "providerName" : "Module 'motiondetector', com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e0c6c7a, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675, com.intellij.javaee.ExternalResourcesRootsProvider@2f8e2675",
+      "totalNumberOfIndexedFiles" : 214,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1,
+      "totalIndexingTime" : 2493553300,
+      "numberOfTooLargeForIndexingFiles" : 0
+    } ]
+  }
+}
