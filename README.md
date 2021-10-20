@@ -1,2 +1,3 @@
 # AlDe-support
-Artificial intelligence built through python language which helps in detecting motion and buzz an alarming sound.
+An AI based chat bot and motion detector, which can help support regular life of patients with Alzheimer's and Dementia.
+
